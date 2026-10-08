@@ -1,0 +1,6 @@
+{
+  "name": "ROADSAFE AI",
+  "description": "Road accident severity prediction ML system for UK STATS19 collision datasets with automated preprocessing, model comparison, and severity probability inference.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
